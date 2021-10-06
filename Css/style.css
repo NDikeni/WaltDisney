@@ -1,0 +1,62 @@
+body {
+  background-color: #457B9D;
+  color : #F1FAEE;
+}
+#WaltDisney{
+  background-color: #1D3557;
+  font-family: Georgia, serif;
+  padding : 10px;
+  text-align: center;
+}
+
+h2{
+  text-align: center;
+}
+
+#BannerImage{
+  background-image: url(../images/WaltDisney.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+img {
+  border-radius: 30px;
+}
+
+h3{
+  color: #A8DADC;
+}
+
+#YoungWalt, #FirstCreation, #FirstSketch, #Trains, #Kids{
+  background-color: #1D3557
+}
+
+a {
+ color: white;
+}
+
+#Hori{
+  list-style: none;
+  margin:0;
+  padding:0;
+  overflow: hidden;
+  background-color: #ADD8E6;
+}
+
+#Hori1, #Hori2, #Hori3{
+  float: left;
+  display: block;
+  color: white;
+  padding: 14px 16px;
+}
+
+#Hori1:Hover, #Hori2:Hover, #Hori3:Hover{
+  background: red;
+}
+
+#Left{
+  text-align: justified;
+}
